@@ -1,1 +1,1 @@
-# oscam_sky
+# oscam_sat
