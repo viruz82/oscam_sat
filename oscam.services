@@ -1,0 +1,48 @@
+[hdplus]
+caid                          = 1830,1843,09C4,098C
+provid                        =
+srvid                         = EF10,EF11,EF14,1581,EF15,EF74,EF75,EF76,EF77,5273,5274,1519,277E,2E9B,151A,157F,EF78,157C,2774,2EAF,2777,30D4,0002,1392,30D6
+[SAT-SKY-Starter]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 002A,0039,0015,0018,000E,001C,001A,0010,0206,0016,0013,00A8,000C,000D,0026,001D,001B,2EC3,0017,0034,0024,0032,0193,0194,0191,0198
+[SAT-SKY-Entertainment]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 0022,007F,0082,008A,0080,0084,007C,0076,0071,0070,008C,006E,0089,007E,0088,007B,0065,0090,0091,0093
+[SAT-SKY-Cinema]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 000A,000B,002B,0009,0008,0014,0204,0019,0029,0196,0195,0197
+[SAT-SKY-CinemaHD]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 0074,006B,006F,0083,0086,0087,008B
+[SAT-SKY-SportSD]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 001E,00DD,00DE,0107,0111,011B,0125,012F,0139,0143,014D,00FD
+[SAT-SKY-SportHD]
+caid                          = 09C4,098C
+provid                        =
+srvid                         =  006D,0081,0072,010C,0116,0120,012A,0134,013E,0148,0152,0102,007A,0077,010E,0118,0122,012C,0136,0140,014A,0154,0104,0135,008F,0229
+[SAT-SKY-BundesligaSD]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 00DF,0106,0110,011A,0124,012E,0138,0142,014C,00FC
+[SAT-SKY-BundesligaHD]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 0066,0069,010B,0115,011F,0129,0133,013D,0147,0151,0101,0228
+[SAT-SKY-BlueMovie]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 0201,0159,0163,016D,0079
+[SAT-SKY-Select]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 0012,00FB,0105,010F,0119,0123,012D,0137,0141,014B,00FE,014E,0078,0192,008E
+[SAT-SKY-Sonstige]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 0075,325F
