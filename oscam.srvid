@@ -1,4 +1,3 @@
-### HD+ ###
 1830,1843,09C4,098C:EF10|Astra HD+|RTL HD|TV|
 1830,1843,09C4,098C:EF11|Astra HD+|VOX HD|TV|
 1830,1843,09C4,098C:277E|Astra HD+|. (SD)|TV|
@@ -24,7 +23,6 @@
 1830,1843,09C4,098C:2777|Astra HD+|MTV HD|TV|
 1830,1843,09C4,098C:1392|Astra HD+|INsight TV HD|TV|
 1830,1843,09C4,098C:30D6|Astra HD+|Eurosport 1 HD|TV|
-### Sky Starter ###
 09C4,098C:002A|Sky|13th Street
 09C4,098C:0039|Sky|A&E
 09C4,098C:0015|Sky|Beate-Uhse.tv
@@ -51,7 +49,6 @@
 09C4,098C:0194|Sky|Cartoon Network
 09C4,098C:0191|Sky|Jukebox
 09C4,098C:0198|Sky|Sky 1
-### Sky Entertainment###
 09C4,098C:0022|Sky|Sky Atlantic
 09C4,098C:007F|Sky|13TH Street HD
 09C4,098C:0082|Sky|Discovery HD
@@ -72,7 +69,6 @@
 09C4,098C:0090|Sky|Sky Atlantic +1 HD
 09C4,098C:0091|Sky|Sky Arts HD
 09C4,098C:0093|Sky|Sky 1 HD
-### Sky Cinema ###
 09C4,098C:000A|Sky|Sky Cinema
 09C4,098C:000B|Sky|Sky Cinema +1
 09C4,098C:002B|Sky|Sky Cinema +24
@@ -85,7 +81,6 @@
 09C4,098C:0196|Sky|Kinowelt TV
 09C4,098C:0195|Sky|TNT Film
 09C4,098C:0197|Sky|Sky Cinema Family
-### Sky Cinema HD ###
 09C4,098C:0074|Sky|Sky Cinema Action HD
 09C4,098C:006B|Sky|Sky Cinema Hits HD
 09C4,098C:0083|Sky|Sky Cinema HD
@@ -93,7 +88,6 @@
 09C4,098C:0086|Sky|Sky Cinema +1 HD
 09C4,098C:0087|Sky|Sky Cinema +24 HD
 09C4,098C:008B|Sky|Sky Cinema Family HD
-## Sky Sport ###
 09C4,098C:00DD|Sky|Sky Sport 1
 09C4,098C:00DE|Sky|Sky Sport 2
 09C4,098C:001E|Sky|Sky Sport Austria
@@ -106,7 +100,6 @@
 09C4,098C:0143|Sky|Sky Sport 9
 09C4,098C:014D|Sky|Sky Sport 10
 09C4,098C:00FD|Sky|Sky Sport 11
-## Sky Sport HD ###
 09C4,098C:0081|Sky|Sky Sport 1 HD
 09C4,098C:0072|Sky|Sky Sport 2 HD
 09C4,098C:007A|Sky|SPORT1+ HD
@@ -133,7 +126,6 @@
 09C4,098C:0104|Sky|Eurosport360 HD 9
 09C4,098C:0135|Sky|Sport1 US HD 1
 09C4,098C:0229|Sky|Sky Sport UHD
-### Sky Bundesliga ###
 09C4,098C:00DF|Sky|Sky Sport Bundesliga 1
 09C4,098C:0106|Sky|Sky Sport Bundesliga 2
 09C4,098C:0110|Sky|Sky Sport Bundesliga 3
@@ -144,7 +136,6 @@
 09C4,098C:0142|Sky|Sky Sport Bundesliga 8
 09C4,098C:014C|Sky|Sky Sport Bundesliga 9
 09C4,098C:00FC|Sky|Sky Sport Bundesliga 10
-#### Sky Bundesliga HD ###
 09C4,098C:0069|Sky|Sky Sport Bundesliga HD 1
 09C4,098C:010B|Sky|Sky Sport Bundesliga HD 2
 09C4,098C:0115|Sky|Sky Sport Bundesliga HD 3
@@ -157,13 +148,11 @@
 09C4,098C:0101|Sky|Sky Sport Bundesliga HD 10
 09C4,098C:0066|Sky|Sky Sport FanZone HD
 09C4,098C:0228|Sky|Sky Sport Bundesliga UHD
-### Sky Blue Movie ###
 09C4,098C:0201|Sky|Blue Movie Info
 09C4,098C:0159|Sky|Blue Movie 1
 09C4,098C:0163|Sky|Blue Movie 2
 09C4,098C:016D|Sky|Blue Movie 3
 09C4,098C:0079|Sky|BM Nights HD 1
-### Sky Select ###
 09C4,098C:0012|Sky|Sky Select
 09C4,098C:00FB|Sky|Sky Select 1
 09C4,098C:0105|Sky|Sky Select 2
@@ -179,6 +168,5 @@
 09C4,098C:0078|Sky|Sky Select HD
 09C4,098C:0192|Sky|Promi Big Brother Live
 09C4,098C:008E|Sky|Promi Big Brother Live HD
-### Sky Sonstige ###
 09C4,098C:0075|Sky|Sky 3D
 09C4,098C:325F|Sky|sportdigital
